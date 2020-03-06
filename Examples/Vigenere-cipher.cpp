@@ -14,7 +14,6 @@ Di = (Ei - Ki + 26) mod 26
  
 */
 
-
 #include<bits/stdc++.h> 
 using namespace std;
 
