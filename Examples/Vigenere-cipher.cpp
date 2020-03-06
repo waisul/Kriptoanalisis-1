@@ -1,6 +1,20 @@
 //==========================================//
 //   C++ code to implement Vigenere Cipher  //
 //==========================================//
+/*
+
+Encryption
+----------
+The plaintext(P) and key(K) are added modulo 26.
+Ei = (Pi + Ki) mod 26
+
+Decryption
+----------
+Di = (Ei - Ki + 26) mod 26
+ 
+*/
+
+
 #include<bits/stdc++.h> 
 using namespace std;
 
