@@ -1,5 +1,5 @@
 ## Kriptoanalisis
-#Kuliah Kriptoanalisis
+# Kuliah Kriptoanalisis
 
 Repository untuk tugas perkuliahan Kriptoanalisis
 -------------------------------------------------
